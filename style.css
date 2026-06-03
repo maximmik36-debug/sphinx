@@ -1,3 +1,12 @@
 body {
     background-color: #d2ee7d;
 }
+
+.img_main {
+    display: flex;
+}
+
+img {
+    width: 50px;
+}
+

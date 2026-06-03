@@ -15,4 +15,14 @@ body {
     border-radius: 20px;
 }
 
+.case_img img {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+    display:flex;
+    justify-content: space-between;
+}
 

@@ -10,8 +10,8 @@ body {
 }
 
 .img_squre {
-    width: 300px;
-    height: 300px;
+    width: 150px;
+    height: 150px;
     border-radius: 20px;
 }
 
@@ -25,4 +25,5 @@ nav {
     display:flex;
     justify-content: space-between;
 }
+
 

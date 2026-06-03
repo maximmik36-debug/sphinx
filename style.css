@@ -4,9 +4,12 @@ body {
 
 .img_main {
     display: flex;
+    width: 400px;
+    height: 700px;
+    
 }
 
 img {
-    width: 50px;
+    width: 150px;
 }
 
